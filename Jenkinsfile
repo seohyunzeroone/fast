@@ -9,6 +9,10 @@ pipeline {
         GIT_REPOSITORY_URL = 'https://github.com/seohyunzeroone/fast'
         GIT_CREDENTIONALS_ID = 'git_cre'
 
+        GIT_EMAIL = 'drg1128@naver.com'
+        GIT_NAME = 'seohyunzeroone'
+        GIT_REPOSITORY_DEP = 'git@github.com:seohyunzeroone/deployment.git'
+
 
         // AWS ECR
         AWS_ECR_CREDENTIAL_ID = 'aws_cre'
